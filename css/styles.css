@@ -1,12 +1,7 @@
 .main-page {
   font-family: var(--primari-font);
   color: var(--primari-color-slate, #434455);
-}
-body {
-  font-family: "Roboto", sans-serif;
-  color: #434455;
-  background-color: var(--white);
-  text-decoration: none;
+  background-color: var(--background-color-white);
 }
 
 :root {
