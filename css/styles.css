@@ -3,6 +3,12 @@
   color: var(--primari-color-slate, #434455);
   background-color: var(--background-color-white);
 }
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: var(--white);
+  text-decoration: none;
+}
 
 :root {
   --primary-font: "Roboto", sans-serif;
