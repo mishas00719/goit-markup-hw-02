@@ -71,7 +71,7 @@ header .container {
 }
 
 header {
-  border-bottom: px solid var(--cornflower, #e7e9fc);
+  border-bottom: 1px solid var(--cornflower, #e7e9fc);
 }
 
 .header .contacts .list {
