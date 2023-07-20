@@ -3,7 +3,7 @@ body {
   color: var(--primary-color-slate, #434455);
   background-color: var(--background-color-white);
 }
-1 :root {
+:root {
   --primary-font: "Roboto" sans-serif;
   --primary-color-slate: #434455;
   --background-color-white: #ffffff;
